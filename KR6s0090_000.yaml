@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6s0090/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 古今譯經圖紀
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T55/T55n2151.xml
+    old_id: T55n2151
+hash: sha256:bebaac1bb69a76645b911a8efe2f6bd85e0e02ffe9e68c7c8692ffc1c034dd03

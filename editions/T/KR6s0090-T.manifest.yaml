@@ -1,0 +1,274 @@
+canonical_identifier: bkk:krp/KR6s0090/T/v1
+canonical_location: https://kanripo.org/bkk/KR6s0090/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 古今譯經圖紀
+  identifiers:
+    krp: KR6s0090
+    cbeta: T55n2151
+    cbeta_old_id: T55n2151
+    authorityid: CA0001175
+    json_key: T2151
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T55/T55n2151.xml
+    old_id: T55n2151
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6s0090_000-T.yaml, hash: 'sha256:bebaac1bb69a76645b911a8efe2f6bd85e0e02ffe9e68c7c8692ffc1c034dd03'}
+  - {seq: 1, filename: KR6s0090_001-T.yaml, hash: 'sha256:43e22caf541be47bdaf27a2d66d664cb93736cefc66dfeb39b673a62c77a5962'}
+  - {seq: 2, filename: KR6s0090_002-T.yaml, hash: 'sha256:80373a635b7d883e583c49045f7684d5da11d67ac07eb04113b1b46fff1b7387'}
+  - {seq: 3, filename: KR6s0090_003-T.yaml, hash: 'sha256:23020362600e76d71dc69586e744cf54e7f2997f30f8a828c0936b349ae0dc17'}
+  - {seq: 4, filename: KR6s0090_004-T.yaml, hash: 'sha256:bbdc81d6e72afa24188f9257c8399d9b8649d09caae21a77dbeeba1141181723'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6s0090_000-T.markers.yaml, hash: 'sha256:66565a3490978b1575fdf60638dfcc9f3722c38e0ee176ccd434d2686f5db712'}
+  - {seq: 1, role: markers, filename: assets/KR6s0090_001-T.markers.yaml, hash: 'sha256:dc4e09b5c7ce2af8a37c5823a7d98f5e8361012c4f646c43babfca2625bf7c20'}
+  - {seq: 2, role: markers, filename: assets/KR6s0090_002-T.markers.yaml, hash: 'sha256:7c486149cd8d0e580a750d36bd2d34fed433691fa3552f2ea7b9f1af49ee7982'}
+  - {seq: 3, role: markers, filename: assets/KR6s0090_003-T.markers.yaml, hash: 'sha256:c76146c31d99556a42ccc8510b80ad8fe85c975d9ad4d98096bfd3616dfd61de'}
+  - {seq: 4, role: markers, filename: assets/KR6s0090_004-T.markers.yaml, hash: 'sha256:5453613f904de8a870ab176df19ed8cf1b141e14fc5803bddb1856018122b5ee'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6s0090_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7579
+  label: 古今譯經圖紀卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0090_T_001-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 後漢
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0090_T_001-mulu-2
+    span:
+    - body
+    - 4693
+    - 4693
+  label: 曹魏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0090_T_001-mulu-3
+    span:
+    - body
+    - 5074
+    - 5074
+  label: 吳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0090_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 7232
+  label: 古今譯經圖紀卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0090_T_002-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 西晉
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0090_T_002-mulu-2
+    span:
+    - body
+    - 4040
+    - 4040
+  label: 東晉
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0090_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 7474
+  label: 古今譯經圖紀卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0090_T_003-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 符秦
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0090_T_003-mulu-2
+    span:
+    - body
+    - 562
+    - 562
+  label: 姚秦
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0090_T_003-mulu-3
+    span:
+    - body
+    - 2599
+    - 2599
+  label: 西秦
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0090_T_003-mulu-4
+    span:
+    - body
+    - 2780
+    - 2780
+  label: 北魏
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0090_T_003-mulu-5
+    span:
+    - body
+    - 3113
+    - 3113
+  label: 北涼
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0090_T_003-mulu-6
+    span:
+    - body
+    - 4425
+    - 4425
+  label: 宋
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0090_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 6248
+  label: 古今譯經圖紀卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0090_T_004-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 蕭齊
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0090_T_004-mulu-2
+    span:
+    - body
+    - 407
+    - 407
+  label: 南魏
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0090_T_004-mulu-3
+    span:
+    - body
+    - 1378
+    - 1378
+  label: 梁
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0090_T_004-mulu-4
+    span:
+    - body
+    - 2313
+    - 2313
+  label: 東魏
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0090_T_004-mulu-5
+    span:
+    - body
+    - 2509
+    - 2509
+  label: 高齊
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0090_T_004-mulu-6
+    span:
+    - body
+    - 2887
+    - 2887
+  label: 陳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0090_T_004-mulu-7
+    span:
+    - body
+    - 3137
+    - 3137
+  label: 周
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0090_T_004-mulu-8
+    span:
+    - body
+    - 3895
+    - 3895
+  label: 隋
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0090_T_004-mulu-9
+    span:
+    - body
+    - 4479
+    - 4479
+  label: 唐
+  type: mulu
+  level: 1
+hash: sha256:c60296ed8202f9e33399c5fa7e2b794c2c5c6a1374ae9ac5fe263c86f86e2e5c
